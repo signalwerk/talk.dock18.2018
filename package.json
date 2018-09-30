@@ -1,0 +1,24 @@
+{
+  "name": "talk.dock18.2018",
+  "version": "1.0.0",
+  "description": "talk for diy-gathering",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "mdx-deck build deck.mdx",
+    "start": "mdx-deck deck.mdx"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/signalwerk/talk.dock18.2018.git"
+  },
+  "author": "Stefan Huber",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/signalwerk/talk.dock18.2018/issues"
+  },
+  "homepage": "https://github.com/signalwerk/talk.dock18.2018#readme",
+  "devDependencies": {
+    "mdx-deck": "^1.7.7"
+  }
+}

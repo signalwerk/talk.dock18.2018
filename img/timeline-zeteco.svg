@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1280px" height="408px" viewBox="0 0 1280 408" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>timeline-zeteco</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="timeline-zeteco" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-3" transform="translate(110.000000, 46.000000)">
+            <g id="Group" transform="translate(866.000000, 0.000000)">
+                <path d="M114.5,280 C158.958922,280 195,243.958922 195,199.5 C195,155.041078 158.958922,119 114.5,119 C70.0410776,119 34,155.041078 34,199.5 C34,243.958922 70.0410776,280 114.5,280 Z" id="Oval" stroke="#000000" stroke-width="18.2" stroke-dasharray="17.5,14"></path>
+                <text id="NL" font-family="WorkSans-Black, Work Sans" font-size="47.6" font-weight="700" fill="#000000">
+                    <tspan x="82.8462" y="216">NL</tspan>
+                </text>
+                <text id="2021" font-family="SourceCodeRoman-Semibold, Source Code Variable" font-size="28" font-weight="500" fill="#000000">
+                    <tspan x="25" y="28">2021</tspan>
+                </text>
+                <path d="M1.5,144.5 L1.5,12.5" id="Line" stroke="#000000" stroke-width="5" stroke-linecap="square"></path>
+            </g>
+            <g id="Group-2">
+                <path d="M114.5,280 C158.958922,280 195,243.958922 195,199.5 C195,155.041078 158.958922,119 114.5,119 C70.0410776,119 34,155.041078 34,199.5 C34,243.958922 70.0410776,280 114.5,280 Z" id="Oval" stroke="#9B9B9B" stroke-width="6.5" stroke-dasharray="17.5,14"></path>
+                <text id="WM" font-family="WorkSans-Black, Work Sans" font-size="47.6" font-weight="700" fill="#9B9B9B">
+                    <tspan x="68.1378" y="216">WM</tspan>
+                </text>
+                <text id="2018" font-family="SourceCodeRoman-Semibold, Source Code Variable" font-size="28" font-weight="500" fill="#9B9B9B">
+                    <tspan x="25" y="28">2018</tspan>
+                </text>
+                <path d="M1.5,144.5 L1.5,12.5" id="Line" stroke="#9B9B9B" stroke-width="5" stroke-linecap="square"></path>
+            </g>
+            <g id="Group-2-Copy" transform="translate(556.000000, 0.000000)">
+                <path d="M135.5,335 C210.334584,335 271,274.334584 271,199.5 C271,124.665416 210.334584,64 135.5,64 C60.6654164,64 0,124.665416 0,199.5 C0,274.334584 60.6654164,335 135.5,335 Z" id="Oval" stroke="#000000" stroke-width="46.5" fill="#D0021B" stroke-dasharray="17.5,14"></path>
+                <text id="2020" font-family="SourceCodeRoman-Semibold, Source Code Variable" font-size="28" font-weight="500" fill="#D0021B">
+                    <tspan x="46" y="28">2020</tspan>
+                </text>
+                <path d="M22.5,144.5 L22.5,12.5" id="Line" stroke="#D0021B" stroke-width="5" stroke-linecap="square"></path>
+            </g>
+            <g id="Group-Copy-2" transform="translate(289.000000, 0.000000)">
+                <path d="M114.5,280 C158.958922,280 195,243.958922 195,199.5 C195,155.041078 158.958922,119 114.5,119 C70.0410776,119 34,155.041078 34,199.5 C34,243.958922 70.0410776,280 114.5,280 Z" id="Oval" stroke="#000000" stroke-width="18.2" stroke-dasharray="17.5,14"></path>
+                <text id="DE" font-family="WorkSans-Black, Work Sans" font-size="47.6" font-weight="700" fill="#000000">
+                    <tspan x="83.0604" y="216">DE</tspan>
+                </text>
+                <text id="2019" font-family="SourceCodeRoman-Semibold, Source Code Variable" font-size="28" font-weight="500" fill="#000000">
+                    <tspan x="25" y="28">2019</tspan>
+                </text>
+                <path d="M1.5,144.5 L1.5,12.5" id="Line" stroke="#000000" stroke-width="5" stroke-linecap="square"></path>
+            </g>
+        </g>
+        <text id="ZeTeCo" font-family="WorkSans-Black, Work Sans" font-size="47.6" font-weight="700" fill="#FFFFFF">
+            <tspan x="716.4168" y="264">ZeTeCo</tspan>
+        </text>
+    </g>
+</svg>
